@@ -34,3 +34,11 @@ python autoregression_linear_regression.py --tau 10 --num_iter 150 --noise 0.1
 
 ## License
 This project is open source under the MIT License.
+
+
+## Example Results
+Tau 64, Number predicted 200, Noise 0.3
+![image](https://github.com/user-attachments/assets/58d519a0-acc7-4c9c-a0c4-b4bc5fdf808d)
+
+Tau 32, Number predicted 200, Noise 0.3
+![image](https://github.com/user-attachments/assets/a449ee37-6ed2-47bb-ad75-a1bcf9b00099)
